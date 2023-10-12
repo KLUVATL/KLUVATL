@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 📚 I’m currently working on WEB DEBELOPMENT!
+### 📚 I’m currently working on WEB DEVELOPMENT!
 
 <!--
 **KLUVATL/KLUVATL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
